@@ -24,3 +24,6 @@ matplotlib.pyplot
 matplotlib.patches
 pydicom
 os
+
+## Disclaimer
+Please note this software is for research use only and not intended as a clinical device, or to aid any form of clinical judgement. 
